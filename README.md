@@ -19,11 +19,13 @@ L'heuristique Euclidienne a été utilisée pour le calcul des coûts dans l'alg
 ## Commandes pour exécution
 1. Compiler le projet :
    ```bash
-   javac -d bin src/*.java```
+   javac -d bin src/*.java
+   ```
 
 2. Exécuter :
    ```bash
-   java -cp bin MainApp.App```
+   java -cp bin MainApp.App
+   ```
 
 ## Contribution
 Squelette de code fournie par le professeur Sylvain Lobry.
